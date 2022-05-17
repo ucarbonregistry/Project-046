@@ -2,7 +2,9 @@
 10 MW Bundled Small Scale Hydro Power Project by SPDCL (A Govt. of Sikkim Enterprise)
 The proposed project tile under UCR is “10 MW Bundled Small Scale Hydro Power Project in the State of Sikkim, India”, which is a bundled Hydro Power project located in three different locations namely Sisney village of East Sikkim district (named Rongli small hydroelectric project), Manglay village of South Sikkim district (named Manglay small hydroelectric project) and Lachung village of North Sikkim district (named Lachung small hydroelectric project) in the state of Sikkim (India).
 _________________
-CoUs Issued: 17/05/2022 Total Quantity: 228387 CoUs
+CoUs Issued: 17/05/2022 
+____________________
+Total Quantity: 228387 CoUs
 
 Serial Number: 0001-000001-015651-UCR-CoU-IN-046-01012014-31122014
 
